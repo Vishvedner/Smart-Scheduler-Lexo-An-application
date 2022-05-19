@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788599842756",
+    "project_id": "smart-scheduler-marked",
+    "storage_bucket": "smart-scheduler-marked.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788599842756:android:9a51d044a6f8234347e691",
+        "android_client_info": {
+          "package_name": "com.example.smart_scheduler_marked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788599842756-h865glginheu2fl9jbj5eo0mq43lhsgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfshwrx9garEpTQTgX6f2EtuU2c2S08A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788599842756-h865glginheu2fl9jbj5eo0mq43lhsgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">788599842756-h865glginheu2fl9jbj5eo0mq43lhsgi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">788599842756</string>
+    <string name="google_api_key" translatable="false">AIzaSyDtfshwrx9garEpTQTgX6f2EtuU2c2S08A</string>
+    <string name="google_app_id" translatable="false">1:788599842756:android:9a51d044a6f8234347e691</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDtfshwrx9garEpTQTgX6f2EtuU2c2S08A</string>
+    <string name="google_storage_bucket" translatable="false">smart-scheduler-marked.appspot.com</string>
+    <string name="project_id" translatable="false">smart-scheduler-marked</string>
+</resources>
